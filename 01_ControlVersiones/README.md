@@ -39,9 +39,6 @@ Un repositorio donde se moestrara todo lo aprendido en el curso durantes las sem
 
 - git branch-d "nombredelarama" -> Elimina una rama
 
-# Captura de commits 
-
-
 # Autor 
  Ethel Plasencia Mostacerto - Estudiante de la carrera de Ing. Sistemas Computacionales
 
