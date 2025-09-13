@@ -41,4 +41,6 @@ Un repositorio donde se moestrara todo lo aprendido en el curso durantes las sem
 
 # Autor 
  Ethel Plasencia Mostacerto - Estudiante de la carrera de Ing. Sistemas Computacionales
- 
+
+# Fecha 
+  dia/mes/año
