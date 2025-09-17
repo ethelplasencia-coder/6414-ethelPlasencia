@@ -43,5 +43,5 @@ Un repositorio donde se moestrara todo lo aprendido en el curso durantes las sem
  Ethel Plasencia Mostacerto - Estudiante de la carrera de Ing. Sistemas Computacionales
 
 # Fecha 
-  dia/mes/año
+  17/09/2025
 
