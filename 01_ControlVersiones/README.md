@@ -2,7 +2,7 @@
 ¡Hola! Este repositorio contiene ejercicios de algoritmos
 
 ## Descripción
-Un repositorio donde se moestrara todo lo aprendido en el curso durantes las semanas
+Un repositorio donde se mostrara todo lo aprendido en el curso durantes las semanas
 
 ## Lenguajes utilizadas
 - C# 
