@@ -18,7 +18,7 @@ el uso de Git y GitHub, ejemplos pràcticos en C# y Python.
     Contiene dos subcarpetas, en donde se puede hallar ejemplos 
     utilizando el leguaje C# y Python sobre:
     Vectores
-    Matricesss
+    Matrices
 README.md
     Una explicaciòn general del proyecto
 
