@@ -1,14 +1,14 @@
-# Repositorio_Fundamentos de Algoritmos 
-¡Hola! Este repositorio contiene ejercicios de algoritmos
+# Control de Versiones 
+En esta carpeta se documentan los comandos básicos de Git utilizados en el proyecto, así como ejemplos y evidencias de commits, logs y flujo de ramas.
 
 ## Descripción
-Un repositorio donde se mostrara todo lo aprendido en el curso durantes las semanas
+El control de versiones es fundamental para organizar proyectos, evitar pérdidas de información y facilitar el trabajo en equipo.
 
-## Lenguajes utilizadas
-- C# 
-- Python
+## Herramientas utilizadas
+  - Git
+  - GitHub
 
-# COMANDOS BÀSICOS - Git & GitHub
+# COMANDOS BÀSICOS
 - git config --global user.name "tu nombre" -> Para configuar usuario a la primera vez que usamos git bash
 
 - git config --global user.email "tu email.com" -> Para configurar email  (primera vez)
@@ -43,5 +43,5 @@ Un repositorio donde se mostrara todo lo aprendido en el curso durantes las sema
  Ethel Plasencia Mostacerto - Estudiante de la carrera de Ing. Sistemas Computacionales
 
 # Fecha 
-  17/09/2025
+  20/09/2025
 
