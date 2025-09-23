@@ -8,12 +8,12 @@ Aqui se muestra ejemplos en dos lenguajes:
 - Python
 
 ## Ejemplos
-- Promedio de Notas
+- Promedio de Notas:
     Le pide al usuario colocar 3 notas para luego sumarlas y dividir entre 3 para obtener el promedio.
 
-- Conversiòn de Temperaturas
+- Conversiòn de Temperaturas:
     El programa pide una temperatura en Celsius, la convierte a Fahrenheit y a Kelvin, y luego muestra ambos resultados.
-    
+
 NOTA: Cada ejemplo esta traducido al otro lenguaje.
 
 # Autor 
